@@ -80,7 +80,7 @@ const Hero = () => {
                 <img
                   src={profileImage}
                   alt="Dhanush B - Full Stack Developer"
-                  className="w-full max-w-md mx-auto rounded-3xl shadow-strong"
+                  className="w-full max-w-md mx-auto rounded-full shadow-strong object-cover aspect-square"
                 />
               </div>
               
